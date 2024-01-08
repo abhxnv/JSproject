@@ -1,0 +1,21 @@
+[
+  {
+    "salutation": "Mr",
+    "firstName": "Ramu",
+    "lastName": "Raj",
+    "email": "ramuraj@gmail.com",
+    "phone": "9526262554",
+    "dob": "02-12-2002",
+    "gender": "male",
+    "qualifications": "diploma in science",
+    "address": "ramu bhavan inchakkdu kakkakkunnu po",
+    "country": "INDIA",
+    "state": "1",
+    "city": "kollam",
+    "pin": "690522",
+    "username": "Ramu",
+    "password": "9526262554",
+    "id": "675f551e-0e6e-49c4-abd2-60e661d3fc34",
+    "avatar": "675f551e-0e6e-49c4-abd2-60e661d3fc34.jpg"
+  }
+]
